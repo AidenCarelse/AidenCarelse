@@ -3,7 +3,9 @@
 
 ### Languages
 **Proficient:** Java, C#
+
 **Advanced:** Javascript, C++, C, XML
+
 **Intermediate:** Python, HTML, CSS
 
 <!--
