@@ -13,6 +13,12 @@ Hey, I'm Aiden Carelse, a Software Developer who has a passion for programming, 
 - *Intermediate:* Python, HTML, CSS
 
 Je peux aussi parler en Français!
+
+### 🎮 Other Interests
+- Gaming
+- Sports
+- LEGO
+
 <!--
 **AidenCarelse/AidenCarelse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
