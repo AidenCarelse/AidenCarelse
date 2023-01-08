@@ -1,6 +1,10 @@
 # Hello there, I'm Aiden! 👋
 ### Programmer, App Developer, Student and Gamer
 
+### Languages
+**Proficient:** Java, C#
+**Advanced:** Javascript, C++, C, XML
+**Intermediate:** Python, HTML, CSS
 
 <!--
 **AidenCarelse/AidenCarelse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
