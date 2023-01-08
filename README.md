@@ -6,6 +6,7 @@
 - **Advanced:** Javascript, C++, C, XML
 - **Intermediate:** Python, HTML, CSS
 
+Je peux aussi parler en Français
 <!--
 **AidenCarelse/AidenCarelse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
