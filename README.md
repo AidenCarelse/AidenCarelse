@@ -9,7 +9,7 @@ Hey, I'm Aiden Carelse, a Software Developer who has a passion for programming, 
 ### 📚 Languages
 - Proficient: *Java, C#*
 - Advanced: *Javascript, C++, C, XML*
-- Intermediate: *Python, HTML, CSS*
+- Intermediate: *Python, HTML, CSS, Haskell*
 - Je peux aussi parler en Français!
 
 ### 🎮 Other Interests
