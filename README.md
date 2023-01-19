@@ -5,7 +5,6 @@ Hey, I'm Aiden Carelse, a Software Developer who has a passion for programming, 
 
 ### 💻 What I'm currently working on (outside of work and school)...
 - [WIP] [Star Wars Character Guessing Game](https://github.com/AidenCarelse/-WIP-Star-Wars-Character-Guessing-Game): Available on my github, the game is based off of Wordle and its many spinoffs and involves guessing a *Star Wars* character from an increasingly large databank of information!
-- Teaching myself about SQL and databases.
 
 ### 📚 Languages
 - Proficient: *Java, C#*
