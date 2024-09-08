@@ -1,16 +1,9 @@
 # Hello there, I'm Aiden! 👋
 ### 👨‍💻 Software Developer, Student and Gamer
 
-Hey, I'm Aiden Carelse, a Software Developer who has a passion for programming, solving puzzles and of course playing video games. I'm currently studying Computing Sciences at Simon Fraser University, with concentrations in Grpahics & Multimedia an Artifical Intelligence. I first got into coding with command blocks from *Minecraft* (😂), then improved upon my skills with classes in high school, and since then made it my career and field of study. My Github consists mostly of personal projects that I build in my free time outside of work or school, as well as ones created for events, such as Hackathons. I hope you can find something that interests you! 😊
+Motivated and committed to learning and producing high-end results, I am a 5th year Computing Sciences student at SFU, specializing in both Artificial Intelligence, and Graphics & Multimedia Design. Driven by a passion for problem-solving, I thrive on creating innovative and logical solutions to complex challenges. My diverse skill set, developed through academic studies and 3+ years of professional experience, enables me to craft engaging projects and continuously evolve as a Software Developer. Beyond coding, I enjoy staying active, playing games, and collecting LEGO.
 
-### 💻 Recent Projects...
-- [WIP] [Remnants](https://github.com/AidenCarelse/Remnants): A 3D puzzle game that revolves around finding ancient artifacts to progress through stages with increasing difficulty!
-- [WIP] [PokeGuess](https://github.com/AidenCarelse/pokeguess): My friend and I have been creating a game that is based off of Wordle and its many spinoffs and involves guessing a *Pokemon* using clues from previous guesses!
-
-### 🎮 Other Interests
-- Gaming (I enjoy video, board and card games!)
-- Sports (Go Jays!)
-- LEGO (Espcially *Star Wars*)
+Check out my website to keep updated with what I am working on! [Personal Website](https://aidencarelse99.pythonanywhere.com/)
 
 ### 📫 Links and Contact Information
 - Email: aidenrcarelse@gmail.com
